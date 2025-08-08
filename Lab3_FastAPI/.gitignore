@@ -1,0 +1,11 @@
+# Ignore virtual environment and caches
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+.env
+# GCP Credentials and Secrets
+.env
+gcp/
+*.json

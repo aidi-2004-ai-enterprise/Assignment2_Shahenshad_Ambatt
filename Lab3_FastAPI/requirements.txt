@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+xgboost
+seaborn
+google-cloud-storage
+python-multipart
